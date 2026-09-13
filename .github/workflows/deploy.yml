@@ -27,4 +27,4 @@ jobs:
             npm install
             pm2 restart myapp --update-env
             pm2 save
-            echo "Deploy finished"
+            echo "Deploy finished."
